@@ -121,7 +121,7 @@ public class FrmLogin extends JFrame {
 			System.out.println(u);
 		}
 		
-		em.close();
+		//em.close();
 		
 	}
 	void aviso(String string) {
